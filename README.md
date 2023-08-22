@@ -1,4 +1,4 @@
-# JS_Race_Day
+# JS_Race_Day_App
 JavaScript CodePractice
 
 
